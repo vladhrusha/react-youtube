@@ -16,10 +16,7 @@ export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
-  { name: "JS Mastery", icon: <CodeIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
-  { name: "ReactJS", icon: <CodeIcon /> },
-  { name: "NextJS", icon: <CodeIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
   { name: "Education", icon: <SchoolIcon /> },
   { name: "Podcast", icon: <GraphicEqIcon /> },
@@ -35,10 +32,10 @@ export const categories = [
 ];
 
 export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
-export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
-export const demoVideoUrl = "/video/GDa8kZLNhJ4";
-export const demoChannelTitle = "JavaScript Mastery";
+export const demoChannelUrl = "/channel/UCSHZKyawb77ixDdsGog4iWA";
+export const demoVideoUrl = "/video/H9AAnV59ddE";
+export const demoChannelTitle = "Lex Fridman";
 export const demoVideoTitle =
-  "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI";
+  "Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield | Lex Fridman Podcast #342";
 export const demoProfilePicture =
   "http://dergipark.org.tr/assets/app/images/buddy_sample.png";
