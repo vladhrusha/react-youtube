@@ -36,7 +36,7 @@ const VideoDetail = () => {
     statistics: { viewCount, likeCount },
   } = videoDetail;
   return (
-    <Box minHeight="95vh">
+    <Box minHeight="100vh">
       <Stack direction={{ xs: "column", md: "row" }}>
         <Box flex={1}>
           <Box sx={{ width: "100%", position: "sticky", top: "86px" }}>
@@ -79,7 +79,7 @@ const VideoDetail = () => {
         </Box>
         <Box
           px={2}
-          py={{ md: 1, xs: 5 }}
+          py={{ md: 4, xs: 5 }}
           justifyContent="center"
           alignItems="center"
         >

@@ -19,7 +19,7 @@ const Feed = () => {
     <Stack sx={{ flexDirection: { sx: "column", md: "row" } }}>
       <Box
         sx={{
-          height: { sx: "auto", md: "92vh" },
+          height: { sx: "auto", md: "94.4vh" },
           borderRight: "1px solid #3d3d3d",
           px: { sx: 0, md: 2 },
         }}
@@ -36,7 +36,7 @@ const Feed = () => {
           Copyright 2023
         </Typography>
       </Box>
-      <Box p={2} sx={{ overflowY: "auto", height: "93vh", flex: 2 }}>
+      <Box p={2} sx={{ overflowY: "auto", height: "94.4vh", flex: 2 }}>
         <Typography
           variant="h4"
           fontWeight="bold"
