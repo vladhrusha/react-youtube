@@ -12,5 +12,5 @@ https://vladhrusha-react-youtube-clone.netlify.app/
 
 ## Running
 
-npm install
+npm install &
 npm run start
